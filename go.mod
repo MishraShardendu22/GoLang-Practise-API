@@ -1,4 +1,4 @@
-module github.com/ShardenduMishra22/buildapi
+module github.com/MishraShardendu22/GoLang
 
 go 1.23.2
 
